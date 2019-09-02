@@ -1,0 +1,12 @@
+E:\WorkPlace\QRCode\QRCode\bin\Debug\QRCode.exe.config
+E:\WorkPlace\QRCode\QRCode\bin\Debug\QRCode.exe
+E:\WorkPlace\QRCode\QRCode\bin\Debug\QRCode.pdb
+E:\WorkPlace\QRCode\QRCode\bin\Debug\ThoughtWorks.QRCode.dll
+E:\WorkPlace\QRCode\QRCode\obj\Debug\QRCode.exe
+E:\WorkPlace\QRCode\QRCode\obj\Debug\QRCode.pdb
+E:\WorkPlace\.NET-Tools\1.QRCode\QRCode\bin\Debug\QRCode.exe.config
+E:\WorkPlace\.NET-Tools\1.QRCode\QRCode\bin\Debug\QRCode.exe
+E:\WorkPlace\.NET-Tools\1.QRCode\QRCode\bin\Debug\QRCode.pdb
+E:\WorkPlace\.NET-Tools\1.QRCode\QRCode\bin\Debug\ThoughtWorks.QRCode.dll
+E:\WorkPlace\.NET-Tools\1.QRCode\QRCode\obj\Debug\QRCode.exe
+E:\WorkPlace\.NET-Tools\1.QRCode\QRCode\obj\Debug\QRCode.pdb
