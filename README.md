@@ -4,4 +4,6 @@
 ##1.生成二维码
 ThoughtWorks.QRCode.dll是第三方组件.
 
-##2.
+##2.HttpServer
+Http服务器,用于获取HttpWebRequest请求.
+输出结果在console中会打印,并且会存储在文件中: E:\httplogs.txt

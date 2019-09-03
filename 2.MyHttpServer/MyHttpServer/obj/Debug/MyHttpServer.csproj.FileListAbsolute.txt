@@ -1,0 +1,12 @@
+E:\WorkPlace\MyHttpServer\MyHttpServer\bin\Debug\MyHttpServer.exe.config
+E:\WorkPlace\MyHttpServer\MyHttpServer\bin\Debug\MyHttpServer.exe
+E:\WorkPlace\MyHttpServer\MyHttpServer\bin\Debug\MyHttpServer.pdb
+E:\WorkPlace\MyHttpServer\MyHttpServer\obj\Debug\MyHttpServer.csprojResolveAssemblyReference.cache
+E:\WorkPlace\MyHttpServer\MyHttpServer\obj\Debug\MyHttpServer.exe
+E:\WorkPlace\MyHttpServer\MyHttpServer\obj\Debug\MyHttpServer.pdb
+E:\WorkPlace\.NET-Tools\2.MyHttpServer\MyHttpServer\bin\Debug\MyHttpServer.exe.config
+E:\WorkPlace\.NET-Tools\2.MyHttpServer\MyHttpServer\bin\Debug\MyHttpServer.exe
+E:\WorkPlace\.NET-Tools\2.MyHttpServer\MyHttpServer\bin\Debug\MyHttpServer.pdb
+E:\WorkPlace\.NET-Tools\2.MyHttpServer\MyHttpServer\obj\Debug\MyHttpServer.csprojResolveAssemblyReference.cache
+E:\WorkPlace\.NET-Tools\2.MyHttpServer\MyHttpServer\obj\Debug\MyHttpServer.exe
+E:\WorkPlace\.NET-Tools\2.MyHttpServer\MyHttpServer\obj\Debug\MyHttpServer.pdb
