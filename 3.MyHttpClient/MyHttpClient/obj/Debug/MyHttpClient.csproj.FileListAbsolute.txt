@@ -1,0 +1,7 @@
+E:\WorkPlace\MyHttpClient\MyHttpClient\bin\Debug\MyHttpClient.exe.config
+E:\WorkPlace\MyHttpClient\MyHttpClient\obj\Debug\MyHttpClient.csprojResolveAssemblyReference.cache
+E:\WorkPlace\MyHttpClient\MyHttpClient\bin\Debug\MyHttpClient.exe
+E:\WorkPlace\MyHttpClient\MyHttpClient\bin\Debug\MyHttpClient.pdb
+E:\WorkPlace\MyHttpClient\MyHttpClient\bin\Debug\Newtonsoft.Json.dll
+E:\WorkPlace\MyHttpClient\MyHttpClient\obj\Debug\MyHttpClient.exe
+E:\WorkPlace\MyHttpClient\MyHttpClient\obj\Debug\MyHttpClient.pdb
