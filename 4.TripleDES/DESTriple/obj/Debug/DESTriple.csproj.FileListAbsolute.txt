@@ -1,0 +1,7 @@
+E:\WorkPlace\DESTriple\DESTriple\bin\Debug\DESTriple.exe.config
+E:\WorkPlace\DESTriple\DESTriple\bin\Debug\DESTriple.exe
+E:\WorkPlace\DESTriple\DESTriple\bin\Debug\DESTriple.pdb
+E:\WorkPlace\DESTriple\DESTriple\obj\Debug\DESTriple.csprojAssemblyReference.cache
+E:\WorkPlace\DESTriple\DESTriple\obj\Debug\DESTriple.csproj.CoreCompileInputs.cache
+E:\WorkPlace\DESTriple\DESTriple\obj\Debug\DESTriple.exe
+E:\WorkPlace\DESTriple\DESTriple\obj\Debug\DESTriple.pdb
