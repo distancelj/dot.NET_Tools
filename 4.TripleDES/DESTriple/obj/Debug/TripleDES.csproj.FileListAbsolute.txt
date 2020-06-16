@@ -11,3 +11,10 @@ E:\WorkPlace\TripleDES\DESTriple\bin\Debug\TripleDES.exe
 E:\WorkPlace\TripleDES\DESTriple\bin\Debug\TripleDES.pdb
 E:\WorkPlace\TripleDES\DESTriple\obj\Debug\TripleDES.exe
 E:\WorkPlace\TripleDES\DESTriple\obj\Debug\TripleDES.pdb
+E:\WorkPlace\.NET-Tools\4.TripleDES\DESTriple\bin\Debug\TripleDES.exe.config
+E:\WorkPlace\.NET-Tools\4.TripleDES\DESTriple\bin\Debug\TripleDES.exe
+E:\WorkPlace\.NET-Tools\4.TripleDES\DESTriple\bin\Debug\TripleDES.pdb
+E:\WorkPlace\.NET-Tools\4.TripleDES\DESTriple\obj\Debug\TripleDES.csprojAssemblyReference.cache
+E:\WorkPlace\.NET-Tools\4.TripleDES\DESTriple\obj\Debug\TripleDES.csproj.CoreCompileInputs.cache
+E:\WorkPlace\.NET-Tools\4.TripleDES\DESTriple\obj\Debug\TripleDES.exe
+E:\WorkPlace\.NET-Tools\4.TripleDES\DESTriple\obj\Debug\TripleDES.pdb
