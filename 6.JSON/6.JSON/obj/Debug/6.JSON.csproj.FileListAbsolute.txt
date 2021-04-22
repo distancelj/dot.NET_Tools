@@ -1,0 +1,8 @@
+E:\WorkPlace\dot.NET_Tools\6.JSON\6.JSON\bin\Debug\6.JSON.exe.config
+E:\WorkPlace\dot.NET_Tools\6.JSON\6.JSON\bin\Debug\6.JSON.exe
+E:\WorkPlace\dot.NET_Tools\6.JSON\6.JSON\bin\Debug\6.JSON.pdb
+E:\WorkPlace\dot.NET_Tools\6.JSON\6.JSON\obj\Debug\6.JSON.csprojAssemblyReference.cache
+E:\WorkPlace\dot.NET_Tools\6.JSON\6.JSON\obj\Debug\6.JSON.csproj.CoreCompileInputs.cache
+E:\WorkPlace\dot.NET_Tools\6.JSON\6.JSON\obj\Debug\6.JSON.csproj.CopyComplete
+E:\WorkPlace\dot.NET_Tools\6.JSON\6.JSON\obj\Debug\6.JSON.exe
+E:\WorkPlace\dot.NET_Tools\6.JSON\6.JSON\obj\Debug\6.JSON.pdb
